@@ -59,7 +59,7 @@ bash scripts/restore.sh
 - This project targets **developer-friendly restores** on local Docker while retaining the data shape.
 
 ## Contributing
-PRs & issues welcome! See [CONTRIBUTING](CONTRIBUTING.md) _(coming soon)_ or open an issue with details.
+PRs & issues welcome! See [CONTRIBUTING](CONTRIBUTING.md) or open an issue with details.
 
 ## License
 [MIT](LICENSE)
