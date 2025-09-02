@@ -1,0 +1,4 @@
+# Place these lines into your ~/.pgpass and set chmod 600 ~/.pgpass
+# Format: host:port:database:username:password
+db-postgresql-xxxx-do-user-xxxxx-0.c.db.ondigitalocean.com:25060:logistics_db:backup_user:YOUR_BACKUP_PASSWORD
+localhost:5433:*:myuser:mypassword
